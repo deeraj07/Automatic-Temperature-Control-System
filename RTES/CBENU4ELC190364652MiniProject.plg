@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\College\Sem 5\RTES\MiniProject\CBENU4ELC190364652MiniProject.uvproj
+Project File Date:  11/21/2021
+
+<h2>Output:</h2>
+compiling main.c...
+main.c(147): warning:  #177-D: variable "status" was declared but never referenced
+main.c(207): warning:  #223-D: function "rand" declared implicitly
+main.c(233): warning:  #550-D: variable "status" was set but never used
+main.c(243): warning:  #177-D: variable "status" was declared but never referenced
+main.c(250): warning:  #550-D: variable "status" was set but never used
+main.c(261): warning:  #550-D: variable "status" was set but never used
+main.c(344): warning:  #223-D: function "sprintf" declared implicitly
+main.c(345): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(365): warning:  #223-D: function "sprintf" declared implicitly
+main.c(366): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(387): warning:  #223-D: function "sprintf" declared implicitly
+main.c(388): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(396): warning:  #111-D: statement is unreachable
+main.c - 0 Error(s), 13 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=6284 RO-data=92 RW-data=8 ZI-data=1480  
+"CBENU4ELC190364652MiniProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(147): warning:  #177-D: variable "status" was declared but never referenced
+main.c(207): warning:  #223-D: function "rand" declared implicitly
+main.c(233): warning:  #550-D: variable "status" was set but never used
+main.c(243): warning:  #177-D: variable "status" was declared but never referenced
+main.c(250): warning:  #550-D: variable "status" was set but never used
+main.c(261): warning:  #550-D: variable "status" was set but never used
+main.c(344): warning:  #223-D: function "sprintf" declared implicitly
+main.c(345): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(365): warning:  #223-D: function "sprintf" declared implicitly
+main.c(366): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(387): warning:  #223-D: function "sprintf" declared implicitly
+main.c(388): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(396): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=6284 RO-data=92 RW-data=8 ZI-data=1480  
+FromELF: creating hex file...
+"CBENU4ELC190364652MiniProject.axf" - 0 Error(s), 13 Warning(s).
